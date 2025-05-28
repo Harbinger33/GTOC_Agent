@@ -1,0 +1,36 @@
+WELCOME TO RUNNING THE RAG SYSTEM HERE'S HOW TO START
+
+READING FOR THE PDF
+pip install pymupdf
+Run the extract_pdf_text.py (displays the first bit of text from the pdf of choosing)
+- If having issues check the install with:
+--pip show pymupdf
+--python --version
+--ctl+Shif+P>Python: Select interpreter > Match the version with the python version that showed
+
+Next is for the OpenAi connection
+pip install openai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

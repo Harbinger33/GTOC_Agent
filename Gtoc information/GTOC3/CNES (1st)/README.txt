@@ -1,0 +1,1 @@
+This is from their work in GTOC1, but they basically used the same approach as they did in GTOC1 for GTOC3 (flybys)
